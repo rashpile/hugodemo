@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Rashpile Private Blog</title>
+    <link>https://rashpile.github.io/hugodemo/post/index.xml</link>
+    <description>Recent content in Posts on Rashpile Private Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 03 Jan 2017 13:08:15 +0200</lastBuildDate>
+    <atom:link href="https://rashpile.github.io/hugodemo/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>welcome</title>
+      <link>https://rashpile.github.io/hugodemo/post/welcome/</link>
+      <pubDate>Tue, 03 Jan 2017 13:08:15 +0200</pubDate>
+      
+      <guid>https://rashpile.github.io/hugodemo/post/welcome/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Welcome&lt;/strong&gt; To My Site!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
